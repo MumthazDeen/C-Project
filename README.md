@@ -15,6 +15,15 @@ This project is a simple implementation of a pawnshop management system written 
 
 ## Usage
 
-1- Clone the repository:
+1. Clone the repository:
 
 [HTTP](https://github.com/MumthazDeen/C-Project.git)
+
+2. Compile the source code:
+
+gcc Project.c -o pawnshop
+
+3. Follow the on-screen instructions to navigate through the system.
+
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request for any enhancements or bug fixes.
