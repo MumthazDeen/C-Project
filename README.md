@@ -12,3 +12,9 @@ This project is a simple implementation of a pawnshop management system written 
 - Existing Items: View details of existing pawned items based on different categories.
 - Total Sales: Keep track of the total sales for the day.
 - Exit: Option to exit the program.
+
+## Usage
+
+1- Clone the repository:
+
+[HTTP](https://github.com/MumthazDeen/C-Project.git)
